@@ -17,3 +17,14 @@ for(var i = 0; i >= 0; i ++){
 }
 
 // QUESTION 3
+
+var classmates = ["Bridjet", "Nathan", "Matias", "Mike", "Jason", "Reuben", "Ben", "Lane", "John", "Chris", "Terry", "Ann", "Katelyn", "Naomi", "Jeff"];
+
+for(var i=0; i<= classmates.length; i++){
+	if(i % 2 === 0){
+		console.log(classmates[i])
+	}
+}
+
+// Question 4
+
